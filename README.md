@@ -2,7 +2,7 @@
 
 # 8-Puzzle Solver
 
-### Interactive N-Puzzle Game with BFS, DFS, and A* Search
+### Interactive Search Visualizer for BFS, DFS, and A* Algorithms
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-Interactive%20UI-2E8B57)](https://www.pygame.org/)
@@ -30,7 +30,7 @@ An interactive 3 x 3 sliding-puzzle application that lets a player shuffle, solv
 ├── analyze.py                           # Search comparison script
 ├── left.png / right.png                 # Solution navigation icons
 ├── algorithm_comparison*.png            # Generated comparison charts
-└── Report 1.pdf                         # Project report
+└── algorithm_comparison*.png            # Search performance visualizations
 ```
 
 ## Getting Started
